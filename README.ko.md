@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **CVE ID** | 요청 완료, 발급 대기 중 |
-| **권고문 공개일** | 2026-11-16 |
+| **공개일** | 2026-11-16 |
 | **벤더** | Micro-Star International Co., Ltd. (MSI) |
 | **제품** | MSI Center → MSI NBFoundation Service |
 | **구성 요소** | `MSIAPService.exe` (서비스명 `MSI Foundation Service`, `NT AUTHORITY\SYSTEM` 권한으로 실행) |

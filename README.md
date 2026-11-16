@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **CVE ID** | Requested, pending assignment |
-| **Advisory published** | 2026-11-16 |
+| **Published** | 2026-11-16 |
 | **Vendor** | Micro-Star International Co., Ltd. (MSI) |
 | **Product** | MSI Center → MSI NBFoundation Service |
 | **Component** | `MSIAPService.exe` (service `MSI Foundation Service`, runs as `NT AUTHORITY\SYSTEM`) |
